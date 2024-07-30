@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pichau\\Desktop\\TaskManager\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9767AF04-5F1A-4699-873A-2736D92DB326}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\pichau\\desktop\\taskmanager\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9767AF04-5F1A-4699-873A-2736D92DB326}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A000E7C-8F8D-4569-9F4D-F37F270949B9}|TaskManager.Application\\TaskManager.Application.csproj|c:\\users\\pichau\\desktop\\taskmanager\\taskmanager\\taskmanager.application\\usecase\\tasks\\delete\\deletetaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A000E7C-8F8D-4569-9F4D-F37F270949B9}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecase\\tasks\\delete\\deletetaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteTaskByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\TaskManager\\TaskManager\\TaskManager.Application\\UseCase\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCase\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\TaskManager\\TaskManager\\TaskManager.Application\\UseCase\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCase\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:11:29.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\TaskManager\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\TaskManager\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManager.API\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAArwFIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:26:42.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
